@@ -1,0 +1,7 @@
+docker
+fastapi
+uvicorn
+pydantic
+pika
+requests
+msgpack
